@@ -1,5 +1,5 @@
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
-you can track mistakes.
+you can track truth.
 you can compare youre progress
 you can go back to something which worked in teh past
 
@@ -8,3 +8,7 @@ vs having versions automatically saved, like Google docs does?
 
 Pros - it is logical - not too many and not too much
 Cons - you may forget the right time - requires self disicpline
+
+
+sound of music should be cool
+color of air is nice.
